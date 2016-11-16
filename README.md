@@ -1,6 +1,7 @@
 # meetupv6
 AWS SDK for Python (Boto3)
 
+
 AWS credential setting
 -----------
 First, install the library and set a default region:
@@ -26,6 +27,7 @@ Then, set up a default region (in e.g. ``~/.aws/config``):
     
 
 Demo included scripts for:
+-----------
    - SNS notification via mail
      Required topic_arn ex: arn:aws:sns:ap-northeast-1:5...
      
