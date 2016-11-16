@@ -1,0 +1,4 @@
+boto3==1.4.1
+botocore==1.4.71
+ipython==5.1.0
+virtualenv==15.0.3
